@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# wget -qO- https://raw.githubusercontent.com/ngxson/public-assets/main/install-windows-gcp.sh | sudo bash
+# wget -qO- https://raw.githubusercontent.com/hoangtruongwin/win2012/refs/heads/main/win2012.sh | sudo bash
 
 IMAGE_URL="http://drive.muavps.net/windows/Windows2012r2.gz"
 
